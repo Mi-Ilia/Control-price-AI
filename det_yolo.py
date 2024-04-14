@@ -62,8 +62,8 @@ def prog(PATH_img):
 
 if __name__ == "__main__":
     PATH_img_crop = 'image_crop'
-    filename = sys.argv[1]
-    PATH_model_det = sys.argv[2]
+    filename = 'image.jpg'
+    PATH_model_det = 'yolo_8n_price.pt'
 
     if not filename.isalpha():
         filename = str(filename)
