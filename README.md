@@ -16,3 +16,5 @@
 Ссылки на решения:
 https://drive.google.com/file/d/1sMwLYzLmeH1zChjPbyaTW-s7hWR7jBqn/view?usp=drive_link
 https://drive.google.com/file/d/10887bCS2XnKQLXbeAKexXoZiOqUhTOCe/view?usp=drive_link
+
+det_yolo.py - распознавание текста на ценнике.
