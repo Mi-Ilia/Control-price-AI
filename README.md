@@ -12,3 +12,7 @@
 Ссылка на телеграмм бота: t.me/Bananabits_bot
 
 Бот будет запущен весь день проведения конкурса, поэтому программу сервера лучше не открывать)
+
+Ссылки на решения:
+https://drive.google.com/file/d/1sMwLYzLmeH1zChjPbyaTW-s7hWR7jBqn/view?usp=drive_link
+https://drive.google.com/file/d/10887bCS2XnKQLXbeAKexXoZiOqUhTOCe/view?usp=drive_link
